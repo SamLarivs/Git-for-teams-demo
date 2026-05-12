@@ -3,4 +3,4 @@ console.log("Hello, PTRI 21!")
 
 
 
-console.log("hello")
+console.log("goodbye")
